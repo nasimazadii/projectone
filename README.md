@@ -1,19 +1,14 @@
 # projectone
-/*
- * pjone.c
- *
- *  Created on: Feb 27, 2019
- *      Author: Nasim Azadi
- */
 
 
-#include <stdio.h>
+
 /*
  * pjone.c
  *
  *  Created on: Feb 26, 2019
  *      Author: Nasim Azadi
  */
+ #include <stdio.h>
 int main()
 {
 	// fflush("stream");
